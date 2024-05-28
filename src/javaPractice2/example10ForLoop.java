@@ -2,6 +2,7 @@ package javaPractice2;
 
 public class example10ForLoop {
 
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
@@ -24,7 +25,7 @@ public class example10ForLoop {
 		      
 		}
 		
-		
+		System.out.println("Github testing");
 		
 
 	}
